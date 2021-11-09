@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**YohannesTz/YohannesTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Android, Web, Desktop
+- 🌱 I’m currently learning Computer Science
+- 👯 I’m looking to collaborate on any thing that is interesting
+- 💬 Ask me about Anything
+- 📫 How to reach me: https://t.me/yohan_nes
+- 😄 Pronouns: He/Him
+
+## GitHub Stats
+<table border="0" border="none">
+ <tr>
+    <td>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesTzvate=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Bisrategebriel's+GitHub+Stats&show_icons=true"/>
+   </td>
+    <td>
+      <a href="https://app.daily.dev/Bisrategebriel"><img src="https://api.daily.dev/devcards/9ec085f568c2492ba746e65c96ae561d.png?r=m54" width="300" alt="Bisrategebriel Fisseha's Dev Card"/></a> 
+    </td>
+ </tr>
+</table>

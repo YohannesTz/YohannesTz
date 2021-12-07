@@ -16,3 +16,7 @@
    </td>
  </tr>
 </table>
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesTz&layout=compact)

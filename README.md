@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Android, Web, Desktop
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on any thing that is interesting

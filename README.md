@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Android, Web, Desktop
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning MERN, Kotlin and some flutter
 - 👯 I’m looking to collaborate on any thing that is interesting
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://t.me/yohan_nes

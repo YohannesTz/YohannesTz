@@ -17,6 +17,8 @@
  </tr>
 </table>
 
+[![Yohannes's Streak](http://github-readme-streak-stats.herokuapp.com?user=yohannesTz)](https://github.com/yohannesTz)
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesTz&layout=compact)

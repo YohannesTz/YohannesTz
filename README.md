@@ -17,7 +17,7 @@
  </tr>
 </table>
 
-[![Yohannes's Streak](http://github-readme-streak-stats.herokuapp.com?user=yohannesTz)](https://github.com/yohannesTz)
+<!--[![Yohannes's Streak](http://github-readme-streak-stats.herokuapp.com?user=yohannesTz)](https://github.com/yohannesTz) -->
 
 ## Languages
 

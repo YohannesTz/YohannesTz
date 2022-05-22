@@ -7,6 +7,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://t.me/yohan_nes
 - 😄 Pronouns: He/Him
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawibabi" /> </p>
 
 ## GitHub Stats
 <table border="0" border="none">
@@ -14,11 +15,6 @@
     <td>
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesTz&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Yohannes's's+GitHub+Stats&show_icons=true"
    </td>
- </tr>
- <tr>
-  <td>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawibabi" /> </p>
-  </td>
  </tr>
 </table>
 

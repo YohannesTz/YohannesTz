@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://t.me/yohan_nes
 - 😄 Pronouns: He/Him
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawibabi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesTz" /> </p>
 
 ## GitHub Stats
 <table border="0" border="none">

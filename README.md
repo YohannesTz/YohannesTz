@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Android, Web, Desktop
 - 🌱 I’m currently learning MERN, Kotlin and some flutter
 - 👯 I’m looking to collaborate on any thing that is interesting
-- 💬 Ask me about Anything
+- 💬 Ask me about Anything Interesting.
 - 📫 How to reach me: https://t.me/yohan_nes
 - 😄 Pronouns: He/Him
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesTz" /> </p>

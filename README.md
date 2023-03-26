@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Android, Web, Desktop
+- 🔭 I’m currently working on Android, Web, backend and ~~Desktop~~	
 - 🌱 I’m currently learning MERN, Kotlin and some flutter
 - 👯 I’m looking to collaborate on any thing that is interesting
 - 💬 Ask me about Anything

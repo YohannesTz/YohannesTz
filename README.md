@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Android, Web, backend and ~~Desktop~~	
-- 🌱 I’m currently learning MERN, Kotlin and some flutter
-- 👯 I’m looking to collaborate on any thing that is interesting
+- 🔭 I’m currently working on Android and backend
+- 🌱 I’m currently learning Kotlin, Laravel, and some flutter
+- 👯 I’m looking to collaborate on anything that is interesting
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://t.me/yohan_nes
 - 😄 Pronouns: He/Him

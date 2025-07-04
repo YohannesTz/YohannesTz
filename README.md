@@ -1,12 +1,6 @@
-### Hi there 👋
+### Hi there 👋 you have reached a developer trying to not give up 
+thanks for stopping by!
 
-
-- 🔭 I’m currently working on Android and backend
-- 🌱 I’m currently learning Kotlin, Laravel, and some flutter
-- 👯 I’m looking to collaborate on anything that is interesting
-- 💬 Ask me about Anything
-- 📫 How to reach me: https://t.me/yohan_nes
-- 😄 Pronouns: He/Him
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesTz" /> </p>
 
 ## GitHub Stats

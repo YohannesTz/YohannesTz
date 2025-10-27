@@ -1,7 +1,7 @@
-### Hi there 👋 you have reached a developer trying to not give up 
-thanks for stopping by!
-
+### Hi there 👋 thanks for stopping by! 🥰️️️️️️
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesTz&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesTz" /> </p>
+
+![Computer Kid](https://raw.githubusercontent.com/YohannesTz/YohannesTz/main/tanner-computer-kid.gif)
 
 ## GitHub Stats
 <table border="0" border="none">
@@ -13,4 +13,3 @@ thanks for stopping by!
 </table>
 
 <!--[![Yohannes's Streak](http://github-readme-streak-stats.herokuapp.com?user=yohannesTz)](https://github.com/yohannesTz) -->
-
